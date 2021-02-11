@@ -19,5 +19,5 @@ title: First Steps forward
 <p>github.io can handle HTML code in the _posts</p>
 <p>Checking to see if it can Handle CSS</p>
 <ol>
-     <dt>there is a CSS page on the root folder</dt>
+     <dt>there is a CSS page in the root folder</dt>
 </ol>
