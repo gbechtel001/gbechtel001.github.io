@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  background: $rgb(31,27,36);	
+  background: rgb(31,27,36);	
   font: 18px/1.4 $helveticaNeue;
   color: $white;
 }
@@ -29,7 +29,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background: $rgb(18, 18, 18);	
+  background: rgb(18, 18, 18);	
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -275,7 +275,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  background: $rgb(31,27,36);
+  background: rgb(31,27,36);
 }
 
 footer {
