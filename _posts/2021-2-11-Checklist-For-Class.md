@@ -6,6 +6,7 @@ title: First Steps forward
 <ol>
      <dt>Checklist items
           <ol type="1">
+               <li>setup github.io and made first post</li>
                <li>downloaded kali Linux, and virtualbox.</li>
                <li>installed it to a VM of Kali to virtualbox.</li>
                <li>Updated the OS, and checked for SSH.</li>
@@ -15,3 +16,4 @@ title: First Steps forward
 
 <h3>Notes:</h3>
 <p>I have already enjoyed the semester, and Lab 3 seems Like it will be a fun project to do.</p>
+<p>github.io can handle HTML code in the _posts</p>
