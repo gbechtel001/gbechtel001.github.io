@@ -19,8 +19,7 @@ html {
 }
 
 body {
-  background: $black;
-	font-family: "Times New Roman", Times, serif;
+  background: $rgb(31,27,36);	
   font: 18px/1.4 $Times;
   color: $white;
 }
@@ -276,7 +275,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  background-color: $black;
+  background: $rgb(31,27,36);
 }
 
 footer {
