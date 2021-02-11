@@ -4,7 +4,7 @@ title: First Steps forward
 ---
 <h3>Checklist for CSCI-18</h3>
 <ol>
-     <dt>Checklist items
+     <dt>Checklist items:
           <ol type="1">
                <li>setup github.io and made first post</li>
                <li>downloaded kali Linux, and virtualbox.</li>
