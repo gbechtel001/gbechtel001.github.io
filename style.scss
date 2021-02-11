@@ -13,36 +13,6 @@
 /* BASE RULES */
 /**************/
 
-
-/* Default colors */
-body {
-  --text-color: #222;
-  --bkg-color: #fff;
-}
-/* Dark theme colors */
-body.dark-theme {
-  --text-color: #eee;
-  --bkg-color: #121212;
-}
-
-/* Styles for users who prefer dark mode at the OS level */
-@media (prefers-color-scheme: dark) {
-  /* defaults to dark theme */
-  body { 
-    --text-color: #eee;
-    --bkg-color: #121212;
-  }
-  /* Override dark mode with light mode styles if the user decides to swap */
-  body.light-theme {
-    --text-color: #222;
-    --bkg-color: #fff;
-  }
-}
-
-
-
-
-
 html {
   font-size: 100%;
 }
@@ -312,35 +282,6 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
-
-
-
-/* Default colors */
-body {
-  --text-color: #222;
-  --bkg-color: #fff;
-}
-/* Dark theme colors */
-body.dark-theme {
-  --text-color: #eee;
-  --bkg-color: #121212;
-}
-
-/* Styles for users who prefer dark mode at the OS level */
-@media (prefers-color-scheme: dark) {
-  /* defaults to dark theme */
-  body { 
-    --text-color: #eee;
-    --bkg-color: #121212;
-  }
-  /* Override dark mode with light mode styles if the user decides to swap */
-  body.light-theme {
-    --text-color: #222;
-    --bkg-color: #fff;
-  }
-}
-
-
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
