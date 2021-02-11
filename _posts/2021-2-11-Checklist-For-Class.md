@@ -17,3 +17,4 @@ title: First Steps forward
 <h3>Notes:</h3>
 <p>I have already enjoyed the semester, and Lab 3 seems Like it will be a fun project to do.</p>
 <p>github.io can handle HTML code in the _posts</p>
+<p>Checking to see if it can Handle CSS</p>
