@@ -3,6 +3,12 @@ layout: post
 title: First Steps forward
 ---
 
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
+
 I have prepeared for the first lab:
      1. downloaded kali Linux, and virtualbox.
 	 2. installed it to a VM of Kali to virtualbox.
