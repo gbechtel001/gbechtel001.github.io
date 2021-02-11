@@ -2,7 +2,7 @@
 layout: post
 title: First Steps forward
 ---
-<h2>Checklist for CSCI-18</h2>
+<h3>Checklist for CSCI-18</h3>
 <ol>
      <dt>Checklist items
           <ol type="1">
