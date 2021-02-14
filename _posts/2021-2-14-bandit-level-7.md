@@ -14,4 +14,4 @@ title: Bandit Level 7
 <p>reread Bandit Level 7 → Level 8 noticed that the password was with the word millionth</p>
 <p>Ran "cat data.txt | grep millionth" </p>
 
-<p>level 7 password: cvX2JJa4CFALtqS87jk27qwqGhBM9plV</p>
+<p>level 8 password: cvX2JJa4CFALtqS87jk27qwqGhBM9plV</p>
