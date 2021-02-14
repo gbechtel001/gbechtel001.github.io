@@ -16,4 +16,4 @@ port    : 2220
 <p>I cound the command "find -type f -size 1033c ! -executable" </p>
 <p>I ran the command, and it showed there was only one file.</p>
 <p>I used "cd maybehere07"  and cat .file2, and I found the password.</p>
-<p>level 5 password: DXjZPULLxYr17uwoI01bNLQbtFemEgo7</p>
+<p>level 6 password: DXjZPULLxYr17uwoI01bNLQbtFemEgo7</p>
