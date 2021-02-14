@@ -3,10 +3,10 @@ layout: post
 title: Bandit Level 3
 ---
 <h3>Bandit level 3</h3>
-userName: bandit3
-Password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
-addess  : bandit.labs.overthewire.org
-port    : 2220
+<p>userName: bandit3</p>
+<p>Password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK</p>
+<p>addess  : bandit.labs.overthewire.org</p>
+<p>port    : 2220</p>
 <h4>Commands of lab</h4>
 <p>connect to bandit.labs.overthewire.</p>
 <p>used "ls" discovered folder inhere.</p>
