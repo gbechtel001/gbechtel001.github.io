@@ -15,4 +15,4 @@ title: Try Hack Me Welcome
   <li>Learn about hacktivities</li>
 </ol> 
 
-<img src="https://raw.githubusercontent.com/gbechtel001/gbechtel001.github.io/master/images/TryHackMe/welcome-flag.PNG" alt="Welcome_complete" height="333">
+<img src="https://raw.githubusercontent.com/gbechtel001/gbechtel001.github.io/master/images/TryHackMe/welcome-flag.PNG" alt="Welcome_complete">
