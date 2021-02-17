@@ -15,4 +15,4 @@ title: Try Hack Me Tutorial
   <li>Learn about hacktivities</li>
 </ol> 
 
-<img src="https://raw.githubusercontent.com/gbechtel001/gbechtel001.github.io/master/images/TryHackMe/tutorial-flag.PNG" alt="tutorial_complete" height="333" >
+<img src="https://raw.githubusercontent.com/gbechtel001/gbechtel001.github.io/master/images/TryHackMe/tutorial-flag.PNG" alt="tutorial_complete">
