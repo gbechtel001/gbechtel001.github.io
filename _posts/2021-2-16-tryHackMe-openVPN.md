@@ -19,4 +19,4 @@ did these steps in the lab:</p>
 	</ul>
 </ol> 
 
-<img src="https://raw.githubusercontent.com/gbechtel001/gbechtel001.github.io/master/images/TryHackMe/openvpn-flag.PNG" alt="tutorial_complete">
+<img src="https://raw.githubusercontent.com/gbechtel001/gbechtel001.github.io/master/images/TryHackMe/openvpn-flag.PNG" alt="OpenVPN_complete">
