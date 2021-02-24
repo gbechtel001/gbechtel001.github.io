@@ -155,6 +155,17 @@ img {
 // .masthead
 //
 
+#main {
+  background: rgb(18,18,18);
+  padding: 10px;
+  padding-bottom: 2em;
+  border-bottom: 5px solid $lightGray;
+  border: 1px solid;
+  border-radius: 10px;
+  margin-bottom: 35px;
+  box-shadow: 5px 10px 8px rgb(210, 210, 210);
+}
+
 .wrapper-masthead {
   margin-bottom: 50px;
 }
