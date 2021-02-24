@@ -161,6 +161,7 @@ img {
   background: rgb(18,18,18);
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+  border-radius: 10px;
   box-shadow: 5px 10px 8px rgb(210, 210, 210);
 
   @include mobile {
@@ -252,6 +253,7 @@ nav {
   padding-bottom: 2em;
   border-bottom: 5px solid $lightGray;
   border: 1px solid;
+  border-radius: 10px;
   margin-bottom: 35px;
   box-shadow: 5px 10px 8px rgb(210, 210, 210);
 }
@@ -289,6 +291,7 @@ footer {
   padding: 20px 0;
   text-align: center;
   background: rgb(18,18,18);
+  border-radius: 10px;
   box-shadow: 5px 10px 8px rgb(210, 210, 210);
 }
 
