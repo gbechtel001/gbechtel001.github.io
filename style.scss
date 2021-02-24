@@ -251,6 +251,16 @@ nav {
 // .main
 //
 
+.article {
+  background: rgb(18,18,18);
+  padding: 20px 0;
+  border: 1px solid;
+  border-radius: 10px;
+  border-bottom: 1px solid $lightGray;
+  border-radius: 10px;
+  box-shadow: 5px 10px 8px rgb(210, 210, 210);
+}
+
 .posts > .post {
   background: rgb(18,18,18);
   padding: 10px;
