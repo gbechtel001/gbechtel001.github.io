@@ -158,6 +158,7 @@ img {
 }
 
 .masthead {
+  background: rgb(18,18,18);
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
@@ -245,7 +246,7 @@ nav {
 //
 
 .posts > .post {
-  background-color: gb(0, 0, 0);
+  background: rgb(18,18,18);
   padding: 10px;
   padding-bottom: 2em;
   border-bottom: 5px solid $lightGray;
