@@ -20,6 +20,8 @@ html {
 }
 
 body {	
+  margin-top: 35px;
+  margin-bottom: 35px;
   background-image: url("https://raw.githubusercontent.com/gbechtel001/gbechtel001.github.io/master/images/background.jpg");
   background-repeat: repeat, repeat;
   font: 18px/1.4 $helveticaNeue;
@@ -31,8 +33,6 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  margin-top: 35px;
-  margin-bottom: 35px;
 }
 
 h1, h2, h3, h4, h5, h6 {
