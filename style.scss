@@ -161,6 +161,7 @@ img {
   background: rgb(18,18,18);
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+  box-shadow: 5px 10px 8px rgb(210, 210, 210);
 
   @include mobile {
     text-align: center;
@@ -288,6 +289,7 @@ footer {
   padding: 20px 0;
   text-align: center;
   background: rgb(18,18,18);
+  box-shadow: 5px 10px 8px rgb(210, 210, 210);
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
